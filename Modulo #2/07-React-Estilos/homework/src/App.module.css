@@ -1,0 +1,38 @@
+  .app{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    grid-template-rows: 12vh ;
+    justify-items: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .header{
+    align-self: flex-start;
+    grid-column: 1/-1;
+    grid-row: 1/2;    
+  }
+
+  .card{
+    align-self: flex-start;
+    text-align: center;
+    padding: 20px;
+    width: 400px;
+    background-color:  rgba(133, 165, 252, 0.4);
+    border-radius: 99999px;
+    min-width: 300px;
+  }
+
+  .cards{
+    align-self: flex-start;
+    text-align: center;
+    padding: 20px;
+    width: 600px;
+    background-color:  rgba(133, 165, 252, 0.4);
+    border-radius: 99px;
+  }
+  
+  
+
+

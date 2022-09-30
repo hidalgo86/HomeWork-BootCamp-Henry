@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border: 999999px;
+    gap: 5px;
+    padding-right: 20px;
+   
+}
+
+.input{
+    border-radius: 20px;
+}
+
+.agregar{
+    padding: 0px 10px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

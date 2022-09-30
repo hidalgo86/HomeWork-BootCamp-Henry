@@ -1,0 +1,4 @@
+//COUNTER
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const INCREMENT_PAR = 'INCREMENT_PAR';

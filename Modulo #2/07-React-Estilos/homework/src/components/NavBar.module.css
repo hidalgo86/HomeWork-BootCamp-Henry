@@ -1,0 +1,13 @@
+nav{ 
+    background-color: red;   
+    display: flex;
+    width: 100vw; 
+}
+
+img{
+    margin-left: 20px;
+    align-items: center;
+    text-align: center;
+    width: 50px;
+    height: auto;
+}
